@@ -125,4 +125,4 @@ No frontend framework required.
 
 # 🌐 Web UI
 
-After starting the server:
+After starting the server: https://x.com/i/communities/2020190633978122458/
