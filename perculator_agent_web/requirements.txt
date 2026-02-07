@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+tree_sitter
+tree_sitter_rust
+faiss-cpu
+sentence-transformers
+jinja2
